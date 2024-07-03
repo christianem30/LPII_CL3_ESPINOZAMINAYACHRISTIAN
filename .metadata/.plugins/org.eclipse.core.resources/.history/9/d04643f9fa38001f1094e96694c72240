@@ -1,0 +1,36 @@
+package Dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+import javax.persistence.TypedQuery;
+
+import Interfaces.IUsuario;
+import model.TblUsuariocl3;
+
+public class ClassUsuarioImp implements IUsuario {
+	
+	private EntityManagerFactory emf;
+
+    public ClassUsuarioImp() {
+        emf = Persistence.createEntityManagerFactory("LPII_cl3_ESPINOZAMINAYACHRISTIAN");
+    }
+
+    public boolean ValidarUsuario(TblUsuariocl3 usuario) {
+        EntityManager em = emf.createEntityManager();
+
+        try {
+            // Usamos una consulta JPA para buscar el usuario por el campo usuariocl3
+            TypedQuery<TblUsuariocl3> query = em.createQuery("SELECT u FROM TblUsuariocl3 u WHERE u.usuariocl3 = :username", TblUsuariocl3.class);
+            query.setParameter("username", usuario.getUsuariocl3());
+            TblUsuariocl3 foundUser = query.getSingleResult();
+
+            return foundUser != null && foundUser.getPasswordcl3().equals(usuario.getPasswordcl3());
+        } catch (Exception e) {
+            // Maneja la excepción (por ejemplo, NoResultException si no se encuentra el usuario)
+            return false;
+        } finally {
+            em.close();  // Asegúrate de cerrar el EntityManager
+        }
+    }
+}
