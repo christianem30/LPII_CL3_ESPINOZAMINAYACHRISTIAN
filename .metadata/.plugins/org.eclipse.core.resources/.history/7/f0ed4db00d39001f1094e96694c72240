@@ -1,0 +1,95 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<%@ page import="model.TblProductocl3" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Actualizar Producto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+        label {
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Actualizar Producto</h1>
+        <%
+          List  <TblProductocl3> producto = (TblProductocl3) request.getAttribute("producto");
+            if (producto != null) {
+        %>
+        <form action="ControladorProducto" method="post">
+            <input type="hidden" name="id" value="<%= producto.getIdproductoscl3() %>">
+            
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" value="<%= producto.getNombrecl3() %>" required><br>
+            
+            <label for="precioventa">Precio Venta:</label>
+            <input type="text" id="precioventa" name="precioventa" value="<%= producto.getPrecioventacl3() %>" required><br>
+            
+            <label for="preciocompra">Precio Compra:</label>
+            <input type="text" id="preciocompra" name="preciocompra" value="<%= producto.getPreciocompcl3() %>" required><br>
+            
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado" name="estado" value="<%= producto.getEstadocl3() %>" required><br>
+            
+            <label for="descripcion">Descripción:</label>
+            <input type="text" id="descripcion" name="descripcion" value="<%= producto.getDescripcl3() %>" required><br>
+            
+            <input type="submit" value="Actualizar Producto">
+        </form>
+        <%
+            } else {
+        %>
+        <p style="color: red; text-align: center;">Error: No se ha encontrado el producto para actualizar.</p>
+        <%
+            }
+        %>
+    </div>
+</body>
+</html>

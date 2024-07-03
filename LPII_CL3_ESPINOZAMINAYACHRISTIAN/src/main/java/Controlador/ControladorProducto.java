@@ -33,11 +33,59 @@ public class ControladorProducto extends HttpServlet {
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
 		TblProductocl3  producto = new TblProductocl3();
 		ClassProductoImp crud = new ClassProductoImp();
-		List<TblProductocl3> listadoproducto=crud.ListadoProducto();
-		//invocamos el listado de productos
-		request.setAttribute("listadodeproductos", listadoproducto);
-		//redireccionemos
-		request.getRequestDispatcher("/ListadoProductos.jsp").forward(request, response);
+	 	
+		//recuperamos la accion y codigo
+		String accion=request.getParameter("accion");
+		//aplicamos una condicion...
+		if(accion!=null){
+			switch(accion){
+			case "Modificar":
+				int codigo=Integer.parseInt(request.getParameter("cod"));
+				//asignar el codigo...
+				producto.setIdproductoscl3(codigo);
+				TblProductocl3 buscarcod=crud.BuscarProducto(producto);
+				//enviar los valores buscados por codigo de la base de datos
+				//al formulario actualizar..
+				request.setAttribute("codigo",buscarcod.getIdproductoscl3());
+				request.setAttribute("nombre",buscarcod.getNombrecl3());
+				request.setAttribute("precioventa",buscarcod.getPrecioventacl3());
+				request.setAttribute("preciocompra",buscarcod.getPreciocompcl3());
+				request.setAttribute("estado",buscarcod.getEstadocl3());
+				request.setAttribute("descripcion",buscarcod.getDescripcl3());
+				
+				//redireccionar..
+				request.getRequestDispatcher("/FormActualizarProducto.jsp").forward(request, response);
+				//salimos
+				break;
+			case "Eliminar":
+				int codeliminar=Integer.parseInt(request.getParameter("cod"));
+				//asignamos el codigo a eliminar
+			     producto.setIdproductoscl3(codeliminar);
+				//invocamos al metodo eliminar...
+				crud.EliminarProducto(producto);
+				//refrescar el listado..
+				List<TblProductocl3> listado=crud.ListadoProducto();
+				request.setAttribute("listadodeproductos",listado);
+				//redireccionar
+				request.getRequestDispatcher("/ListadoProductos.jsp");
+				//salimos
+				break;
+			
+			case "Listar":
+				List<TblProductocl3> listadoproducto=crud.ListadoProducto();
+				//invocamos el listado  de productos para la vista
+				request.setAttribute("listadodeproductos",listadoproducto);
+				//redireccionamos
+				request.getRequestDispatcher("/ListadoProductos.jsp").forward(request, response);
+				//salimos
+				break;
+				
+			 }  //fin del switch...
+			
+			
+		}   //fin del if...
+			
+		
 		
 	}
 

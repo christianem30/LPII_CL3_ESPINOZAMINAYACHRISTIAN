@@ -29,19 +29,55 @@ public class ClassProductoImp implements IProducto {
 			}  //fin del metodo registrar...
 
 	public void ActualizarProducto(TblProductocl3 producto) {
-		// TODO Auto-generated method stub
+		//establecemos conexion con la unidad de persistencia...
+				EntityManagerFactory fabr=Persistence.createEntityManagerFactory("LPII_CL3_ESPINOZAMINAYACHRISTIAN");
+				//permite gestionar entidades
+				EntityManager em=fabr.createEntityManager();
+				//iniciar transaccion
+				em.getTransaction().begin();
+				//actualizamos
+				em.merge(producto);
+				//comfirmamos 
+				em.getTransaction().commit();
+				//cerramos
+				em.close();
 		
 	}
 
 	public void EliminarProducto(TblProductocl3 producto) {
-		// TODO Auto-generated method stub
-		
+		//establecemos la conexion con unidad de persistencia.
+				EntityManagerFactory fabr=Persistence.createEntityManagerFactory("LPII_CL3_ESPINOZAMINAYACHRISTIAN");
+				//gestionar las entidades
+				EntityManager em=fabr.createEntityManager();
+				//iniciamos la transaccion
+				em.getTransaction().begin();
+				//recuperamos el codigo a eliminar
+				TblProductocl3 elim=em.merge(producto);
+				//procedemos a eliminar el registro
+				em.remove(elim);
+				//emitimos mensaje por consola
+				System.out.println("Producto  eliminado de la base de datos");
+				//confirmamos
+				em.getTransaction().commit();
+				//cerramos
+				em.close();
 	}
 
 	public TblProductocl3 BuscarProducto(TblProductocl3 producto) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+		//establecemos la conexion con la unidad de persistencia..
+				EntityManagerFactory fabr=Persistence.createEntityManagerFactory("LPII_CL3_ESPINOZAMINAYACHRISTIAN");
+				//gestionar las entidads
+				EntityManager em=fabr.createEntityManager();
+				//iniciamos la transaccion
+				em.getTransaction().begin();
+				//recuperamos el codigo a buscar
+				TblProductocl3 buscliente=em.find(TblProductocl3.class,producto.getIdproductoscl3());
+				//confirmamos 
+				em.getTransaction().commit();
+				//cerramos
+				em.close();
+				return buscliente;
+			}  //fin del metodo buscar cliente...
 
 	public List<TblProductocl3> ListadoProducto() {
 		//establecer conexion con la unidad de psersistencia

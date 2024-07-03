@@ -322,3 +322,385 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2024-07-03 00:44:15,497 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-07-03 00:44:15,499 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2024-07-03 00:44:15,499 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:44:15,499 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 00:54:06,175 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:54:06,176 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 00:54:06,177 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:54:06,177 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 00:55:31,945 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:55:31,946 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 00:55:31,947 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:55:31,947 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 00:56:12,744 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:56:12,745 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 00:56:12,745 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:56:12,746 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 00:58:03,177 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:58:03,178 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 00:58:03,178 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 00:58:03,179 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:02:17,887 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:02:17,887 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:02:17,888 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:02:17,888 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:07:58,999 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:07:59,000 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 01:07:59,000 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:07:59,001 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:08:13,878 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:13,879 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 01:08:13,880 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:13,880 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:08:21,217 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:21,218 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 01:08:21,218 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:21,218 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:08:27,094 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:27,094 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 01:08:27,095 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:08:27,095 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:14:03,037 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:14:03,037 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:14:03,038 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:14:03,038 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:18:17,991 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:18:17,992 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:18:17,993 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:18:17,993 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:20:06,936 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:20:06,937 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:20:06,937 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:20:06,938 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:22:10,947 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:10,948 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:22:10,948 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:10,949 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:22:17,699 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:17,700 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:22:17,700 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:17,700 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:22:25,554 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:25,555 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:22:25,555 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:25,556 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:22:44,387 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:44,387 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:22:44,387 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:22:44,388 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:24:12,838 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:24:12,838 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:24:12,839 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:24:12,839 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:24:24,339 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:24:24,340 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:24:24,340 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:24:24,341 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:50:44,653 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:50:44,654 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:50:44,654 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:50:44,655 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:50:53,439 [Worker-103] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1-b01/javax.servlet-api-3.1-b01-sources.jar
+2024-07-03 01:50:53,456 [Worker-103] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1-b01/javax.servlet-api-3.1-b01-sources.jar
+2024-07-03 01:50:53,480 [Worker-103] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:3.1-b01
+2024-07-03 01:50:53,848 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:50:53,848 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:50:53,849 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:50:53,849 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:51:12,072 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:51:12,072 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:51:12,073 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:51:12,073 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:53:26,803 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:53:26,804 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:53:26,805 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:53:26,805 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:53:35,801 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:53:35,802 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:53:35,802 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:53:35,803 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:57:56,861 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:57:56,862 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:57:56,863 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:57:56,864 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:58:36,118 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:58:36,118 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:58:36,119 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:58:36,119 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 01:59:06,579 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:59:06,579 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 01:59:06,580 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 01:59:06,580 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:00:03,834 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:03,834 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:00:03,835 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:03,835 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:00:05,912 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:05,912 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:00:05,913 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:05,913 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:00:22,967 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:22,968 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:00:22,968 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:22,969 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:00:47,304 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:47,305 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:00:47,306 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:00:47,307 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:01:38,185 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:01:38,185 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:01:38,186 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:01:38,186 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:01:42,124 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:01:42,124 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:01:42,125 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:01:42,125 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:03:35,001 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:03:35,001 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:03:35,002 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:03:35,002 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:03:58,521 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:03:58,522 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:03:58,522 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:03:58,522 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:01,476 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:01,477 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:01,477 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:01,477 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:04,812 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:04,813 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:04,813 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:04,813 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:17,768 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:17,769 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:17,769 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:17,770 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:28,288 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:28,288 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:28,289 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:28,289 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:53,004 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:53,005 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:53,006 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:53,006 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:04:57,801 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:57,802 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:04:57,802 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:04:57,802 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:05:44,901 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:05:44,902 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:05:44,902 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:05:44,902 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:06:15,399 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:06:15,400 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:06:15,400 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:06:15,400 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:07:36,979 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:36,980 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:07:36,980 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:36,980 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:07:45,755 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:45,755 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:07:45,756 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:45,756 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:07:53,086 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:53,087 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:07:53,088 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:07:53,088 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:08:44,762 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:08:44,762 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:08:44,763 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:08:44,763 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:03,151 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:03,152 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:03,152 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:03,153 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:11,138 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:11,139 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:11,139 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:11,139 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:13,240 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:13,241 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:13,241 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:13,241 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:28,013 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:28,014 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:28,015 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:28,015 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:36,017 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:36,018 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:36,018 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:36,019 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:09:43,231 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:43,231 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:09:43,232 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:09:43,232 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:10:36,320 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:36,321 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:10:36,321 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:36,321 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:10:45,082 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:45,083 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:10:45,083 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:45,084 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:10:56,703 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:56,704 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:10:56,704 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:10:56,705 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:13,172 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:13,173 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:13,173 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:13,173 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:17,107 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:17,108 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:17,108 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:17,109 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:26,617 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:26,617 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:26,618 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:26,618 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:44,404 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:44,405 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:44,405 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:44,406 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:53,138 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:53,139 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:53,139 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:53,140 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:11:55,175 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:55,175 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:11:55,176 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:11:55,176 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:12:01,625 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:12:01,626 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:12:01,627 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:12:01,628 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:12:09,968 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:12:09,969 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:12:09,970 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:12:09,970 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:13:16,482 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:13:16,482 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:13:16,483 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:13:16,483 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:14:16,625 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:14:16,626 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:14:16,626 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:14:16,626 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:15:04,160 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:04,161 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:15:04,162 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:04,162 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:15:09,919 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:09,920 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:15:09,920 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:09,920 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:15:34,791 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:34,792 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:15:34,792 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:34,792 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:15:41,897 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:41,898 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:15:41,898 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:41,898 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:15:48,242 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:48,242 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:15:48,243 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:15:48,243 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:16:03,171 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:03,172 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:16:03,172 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:03,172 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:16:28,732 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:28,732 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:16:28,733 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:28,733 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:16:41,984 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:41,985 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:16:41,986 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:41,986 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:16:48,864 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:48,865 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-07-03 02:16:48,866 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:16:48,867 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:19:34,724 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:34,724 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:19:34,725 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:34,725 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:19:43,190 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:43,191 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:19:43,191 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:43,192 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:19:49,135 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:49,135 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:19:49,136 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:49,136 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:19:57,006 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:57,007 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:19:57,007 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:19:57,008 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:22:13,002 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:22:13,003 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:22:13,004 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:22:13,004 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:25:59,136 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:25:59,136 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:25:59,137 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:25:59,137 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:27:13,863 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:13,864 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:27:13,864 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:13,864 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:27:22,816 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:22,816 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:27:22,817 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:22,817 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:27:35,835 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:35,836 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:27:35,836 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:35,837 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:27:42,125 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:42,126 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:27:42,127 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:27:42,127 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:30:08,947 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:30:08,948 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:30:08,948 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:30:08,948 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:31:39,775 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:31:39,775 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:31:39,776 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:31:39,776 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:32:11,231 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:11,232 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:32:11,232 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:11,232 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:32:13,289 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:13,289 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:32:13,290 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:13,290 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:32:29,639 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:29,640 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:32:29,640 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:32:29,641 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:33:24,516 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:24,517 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:33:24,517 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:24,518 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:33:41,311 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:41,312 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:33:41,312 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:41,312 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:33:56,433 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:56,434 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:33:56,434 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:33:56,435 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:34:31,572 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:34:31,573 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:34:31,573 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:34:31,574 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:35:05,254 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:35:05,254 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-07-03 02:35:05,255 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:35:05,255 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Usuario\Documents\CIBERTEC INFORMATICA\LPII_CL3_ESPINOZAMINAYACHRISTIAN\LPII_CL3_ESPINOZAMINAYACHRISTIAN\src\test\resources
+2024-07-03 02:36:49,785 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-03 02:36:49,785 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

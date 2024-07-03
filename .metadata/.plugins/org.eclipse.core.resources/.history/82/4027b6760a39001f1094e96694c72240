@@ -1,0 +1,113 @@
+package Controlador;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import Dao.ClassUsuarioImp;
+import model.TblUsuariocl3;
+
+/**
+ * Servlet implementation class ControladorLogin
+ */
+public class ControladorLogin extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+    private ClassUsuarioImp userDAO;
+
+    public void init() {
+        userDAO = new ClassUsuarioImp();
+    }
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public ControladorLogin() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		TblProductocl3 Productocl3=new TblProductocl3();
+		ClassProductocl3Imp crud=new ClassProductocl3Imp();
+		
+		
+		//recuperamos la accion y codigo
+		String accion=request.getParameter("accion");
+		//aplicamos una condicion...
+		if(accion!=null){
+			switch(accion){
+			case "Modificar":
+				int codigo=Integer.parseInt(request.getParameter("cod"));
+				//asignar el codigo...
+				Productocl3.setIdProductocl3(codigo);
+				TblProductocl3 buscarcod=crud.BuscarProductocl3(Productocl3);
+				//enviar los valores buscados por codigo de la base de datos
+				//al formulario actualizar..
+				request.setAttribute("codigo",buscarcod.getIdProductocl3());
+				request.setAttribute("nombre",buscarcod.getNombre());
+				request.setAttribute("apellido",buscarcod.getApellido());
+				request.setAttribute("dni",buscarcod.getDni());
+				request.setAttribute("email",buscarcod.getEmail());
+				request.setAttribute("telefono",buscarcod.getTelf());
+				request.setAttribute("sexo",buscarcod.getSexo());
+				request.setAttribute("nacionalidad",buscarcod.getNacionalidad());
+				//redireccionar..
+				request.getRequestDispatcher("/FormActualizarProductocl3.jsp").forward(request, response);
+				//salimos
+				break;
+			case "Eliminar":
+				int codeliminar=Integer.parseInt(request.getParameter("cod"));
+				//asignamos el codigo a eliminar
+				Productocl3.setIdProductocl3(codeliminar);
+				//invocamos al metodo eliminar...
+				crud.EliminarProductocl3(Productocl3);
+				//refrescar el listado..
+				List<TblProductocl3> listado=crud.ListadoProductocl3();
+				request.setAttribute("listadodeProductos",listado);
+				//redireccionar
+				request.getRequestDispatcher("/ListadoProductos.jsp");
+				//salimos
+				break;
+			
+			case "Listar":
+				List<TblProductocl3> listadoProductocl3=crud.ListadoProductocl3();
+				//invocamos el listado  de productos para la vista
+				request.setAttribute("listadodeProductocl3s",listadoProductocl3);
+				//redireccionamos
+				request.getRequestDispatcher("/ListadoProductos.jsp").forward(request, response);
+				//salimos
+				break;
+				
+			 }  //fin del switch...
+			
+			
+		}   //fin del if...
+			
+		
+	} //fin del metodo doget..
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//doGet(request, response);
+		String username = request.getParameter("username");
+        String password = request.getParameter("password");
+        
+        TblUsuariocl3 usuario = new TblUsuariocl3(username, password);
+
+
+        if (userDAO.ValidarUsuario(usuario)) {
+            request.setAttribute("username", username);
+            request.getRequestDispatcher("/MenuPrincipal.jsp").forward(request, response);
+        } else {
+            request.getRequestDispatcher("/index.jsp").forward(request, response);
+        }
+	}
+
+}
